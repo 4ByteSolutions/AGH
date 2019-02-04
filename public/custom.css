@@ -1,0 +1,149 @@
+#main-header{
+    background-color: rgba(70, 130, 180, 0.7);
+}
+
+.introduction{
+    color: white;
+}
+
+#et_pb_contact_message_1{
+    resize: vertical;
+}
+
+#footer-info{
+    color: white;
+}
+
+textarea::placeholder{
+    color: white;
+}
+
+input::placeholder{
+    color: white;
+}
+
+.et_parallax_bg{
+    opacity: 0.7;
+}
+
+#et_pb_contact_email_1{
+    color: white;
+}
+
+#et_pb_contact_name_1{
+    color: white;
+ }
+
+img.spaces{
+    opacity: 0.3;
+}
+
+.mirror-icon{
+    height: 50px;
+}
+
+.mirror-icon2{
+    height:50px;
+}
+
+.black-mirror{
+    height: 50px;
+}
+
+.bamboo{
+    height: 550px;
+}
+
+.glass6{
+    height: 150px;
+    width: 170px;
+}
+
+.home_glass{
+    height: 150px;
+    width: 170px;
+}
+
+.glass3{
+    height: 150px;
+    width: 170px;
+}
+
+.custom-glasses2{
+    height:450px;
+    width: 300px;
+
+}
+
+.sky-glass{
+    margin-top: 70px;
+}
+
+#slider{
+    height: 550px;
+}
+
+.index-slider-img{
+    height:550px;
+}
+
+.crystal-glass1{
+    height: 600px;
+}
+
+.custom-text{
+    color: white;
+}
+
+.custom-heading{
+    color: white;
+}
+
+.custom-glass1{
+    width:1500px;
+    height: 500px;
+}
+
+.handmade{
+    color: white;
+}
+
+.custom-glasses{
+    height: 600px;
+
+}
+
+.modern-glasses-mirrors{
+    background-color: rgba(94, 199, 210, 0.8);
+}
+
+.modern-glasses-mirrors-center{
+    background-color: rgba(94, 199, 210, 0.7);
+}
+
+.swirl-glass{
+    height: 350px;
+    width: 550px;
+}
+
+.mirrors-bg{
+    opacity: 0.7;
+}
+
+.image-opacity{
+    opacity: 0;
+}
+
+.mirrors{
+    height: 250px;
+}
+
+#modern-light-bg{
+    background-color:rgb(94, 199, 210);
+}
+p{
+    font-size: x-large;
+}
+#introduction{
+    color: #003152;
+}

@@ -1,0 +1,1 @@
+[24-Jan-2019 13:32:13 America/Chicago] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home1/aghcompk/public_html/app/Http/Controllers/PageController.php on line 13
