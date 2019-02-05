@@ -52,7 +52,6 @@
     </style>
 </head>
 <body class="home page-template-default page page-id-54 et_pb_button_helper_class et_fixed_nav et_hide_nav et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_split et_pb_pagebuilder_layout et_smooth_scroll et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
-{{--Agh agh--}}
 <div id="page-container">
     <header id="main-header" data-height-onload="77">
         <div class="container clearfix et_menu_container">
